@@ -7,7 +7,7 @@ To test the image:
 * Host: dev.love.inria.cl
 * Port: 389
 * Base DN: ou=people,dc=planetexpress,dc=com
-* User DN: cn=operator,ou=people,dc=planetexpress,dc=com
+* User DN: cn=operator+sn=Kroker,ou=people,dc=planetexpress,dc=com
 * Password: operator
 
 
