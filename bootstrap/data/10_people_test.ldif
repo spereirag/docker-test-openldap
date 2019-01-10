@@ -1,9 +1,9 @@
-dn: cn=Philip J. Fry,ou=people,dc=planetexpress,dc=com
+dn: cn=test,ou=people,dc=planetexpress,dc=com
 objectClass: inetOrgPerson
 objectClass: organizationalPerson
 objectClass: person
 objectClass: top
-cn: Philip J. Fry
+cn: test
 sn: Fry
 description: Human
 displayName: Fry

@@ -1,5 +1,16 @@
 # OpenLDAP Docker Image for testing
 
+## LOVE details
+To test the image:
+* Go to https://direx.azurewebsites.net/home/connect
+
+* Host: dev.love.inria.cl
+* Port: 389
+* Base DN: ou=people,dc=planetexpress,dc=com
+* User DN: cn=operator,ou=people,dc=planetexpress,dc=com
+* Password: operator
+
+
 ![Docker Build Status](https://img.shields.io/docker/build/rroemhild/test-openldap.svg) ![Docker Stars](https://img.shields.io/docker/stars/rroemhild/test-openldap.svg) ![Docker Pulls](https://img.shields.io/docker/pulls/rroemhild/test-openldap.svg)
 
 This image provides an OpenLDAP Server for testing LDAP applications, i.e. unit tests. The server is initialized with the example domain `planetexpress.com` with data from the [Futurama Wiki][futuramawikia].

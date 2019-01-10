@@ -1,9 +1,9 @@
-dn: cn=Amy Wong+sn=Kroker,ou=people,dc=planetexpress,dc=com
+dn: cn=operator+sn=Kroker,ou=people,dc=planetexpress,dc=com
 objectClass: top
 objectClass: person
 objectClass: organizationalPerson
 objectClass: inetOrgPerson
-cn: Amy Wong
+cn: operator
 sn: Kroker
 description: Human
 givenName: Amy
